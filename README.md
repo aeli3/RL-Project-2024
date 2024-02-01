@@ -4,7 +4,7 @@ This branch contains the implementation of the Actor-Critic algorithm for the RL
 
 ## Actor-Critic Implementation
 
-- **ActorCritic.ipynb:** This Jupyter Notebook contains the Actor-Critic implementation for the RL Project. It showcases the Actor-Critic algorithm and its application to the project.
+- **ActorCritic.ipynb:** This Jupyter Notebook contains the Actor-Critic implementation for the RL Project. It showcases the Actor-Critic algorithm and its application in a smart grid environment.
 
 ## Usage
 
