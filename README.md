@@ -14,6 +14,6 @@ Feel free to explore and use the provided Jupyter Notebooks for your own underst
 
 ## Authors
 
-- [Ali](link-to-github-profile](https://github.com/aeli3)) - Initial author and contributor.
-- [Barbara](link-to-github-profile](https://github.com/babura47)) - Initial author and contributor.
-- [Thomas](link-to-github-profile](https://github.com/Jinobey)) - Initial author and contributor.
+- [Ali](https://github.com/aeli3) - Initial author and contributor.
+- [Barbara](https://github.com/babura47) - Initial author and contributor.
+- [Thomas](https://github.com/Jinobey) - Initial author and contributor.
