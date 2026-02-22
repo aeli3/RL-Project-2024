@@ -54,4 +54,4 @@ The training profit is shown in the figure below.
 
 - [Ali](https://github.com/aeli3) - Initial author and contributor.
 - [Barbara](https://github.com/babura47) - Initial author and contributor.
-- [Thomas](https://github.com/Jinobey) - Initial author and contributor.
+- [Thomas](https://github.com/erhardinho) - Initial author and contributor.
